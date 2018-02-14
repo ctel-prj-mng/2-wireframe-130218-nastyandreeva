@@ -6,6 +6,8 @@
 
 
 Мобильная версия:
+
+
 ![alt text](https://github.com/ctel-prj-mng/2-wireframe-130218-nastyandreeva/blob/master/макет11.png)
 ![alt text](https://github.com/ctel-prj-mng/2-wireframe-130218-nastyandreeva/blob/master/макет12.png)
 ![alt text](https://github.com/ctel-prj-mng/2-wireframe-130218-nastyandreeva/blob/master/макет13.png)
